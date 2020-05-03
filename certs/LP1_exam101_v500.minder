@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<minder>
+  <theme name="Dark" index="0"/>
+  <styles>
+    <style level="0" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 48" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="1" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 34" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="2" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="3" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="4" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="5" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="6" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="7" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="8" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="9" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="10" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+  </styles>
+  <drawarea x="-1917.5875522546607" y="-2644.6267220491354" scale="0.25"/>
+  <images>
+    <image id="19" uri="file:///mnt/phoenix/content/mind-maps/pictures/linux-logo.png" ext=".png"/>
+    <image id="20" uri="file:///mnt/phoenix/content/mind-maps/pictures/architecture.jpeg" ext=".jpeg"/>
+    <image id="21" uri="file:///mnt/phoenix/content/mind-maps/pictures/hardware.jpeg" ext=".jpeg"/>
+    <image id="22" uri="file:///mnt/phoenix/content/mind-maps/pictures/processor.jpg" ext=".jpg"/>
+    <image id="23" uri="file:///mnt/phoenix/content/mind-maps/pictures/keyboard.jpg" ext=".jpg"/>
+    <image id="24" uri="file:///mnt/phoenix/content/mind-maps/pictures/pci.JPG" ext=""/>
+    <image id="25" uri="file:///mnt/phoenix/content/mind-maps/pictures/usb.jpg" ext=".jpg"/>
+    <image id="26" uri="file:///mnt/phoenix/content/mind-maps/pictures/lists.svg" ext=".svg"/>
+    <image id="27" uri="file:///mnt/phoenix/content/mind-maps/pictures/hd.jpg" ext=".jpg"/>
+    <image id="28" uri="file:///mnt/phoenix/content/mind-maps/pictures/hd2.jpeg" ext=".jpeg"/>
+    <image id="29" uri="file:///mnt/phoenix/content/mind-maps/pictures/linux_dev_names_cheatsheet.png" ext=".png"/>
+    <image id="30" uri="file:///mnt/phoenix/content/mind-maps/pictures/grub2_menu.png" ext=".png"/>
+    <image id="31" uri="file:///mnt/phoenix/content/mind-maps/pictures/stairs.jpg" ext=".jpg"/>
+  </images>
+  <nodes>
+    <node id="1" posx="2248.4239983809621" posy="3038.989281049784" maxwidth="258.02441406249989" width="280" height="409" side="left" fold="false" treesize="3242.8913791838768" layout="Manual">
+      <nodeimage id="19" x="0" y="0" w="493" h="600"/>
+      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="11" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 50" nodemarkup="true"/>
+      <nodename>LPI-101</nodename>
+      <nodenote>weight: 60 </nodenote>
+      <nodes>
+        <node id="3" posx="2584.1514592756312" posy="2315.5724767863258" maxwidth="364.01084498355226" width="386" height="292" side="right" fold="false" treesize="2469.3055282980495" color="#c6262e" layout="Manual">
+          <nodeimage id="20" x="0" y="0" w="600" h="360"/>
+          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 34" nodemarkup="true"/>
+          <nodename>SYS ARCH</nodename>
+          <nodenote>weight: 8</nodenote>
+          <nodes>
+            <node id="5" posx="3117.3563575075395" posy="1358.2211827967028" maxwidth="292.19328227796052" width="314" height="255" side="right" fold="false" treesize="2426.4506248386415" color="#c6262e" layout="Manual">
+              <nodeimage id="21" x="0" y="0" w="600" h="400"/>
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename>HARDWARE</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="7" posx="3528.9080686667303" posy="492.05082341538821" maxwidth="107.97357177734375" width="129" height="160" side="right" fold="false" treesize="361.60701497395775" color="#c6262e" layout="Manual">
+                  <nodeimage id="26" x="0" y="0" w="600" h="600"/>
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename>LIST</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="9" posx="3761.6428302227187" posy="205.09790186590726" maxwidth="142.77986653645831" width="164" height="143" side="right" fold="false" treesize="47" color="#c6262e" layout="Manual">
+                      <nodeimage id="24" x="0" y="0" w="600" h="382"/>
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>lspci</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="11" posx="3755.7175779440731" posy="368.43794906642745" maxwidth="86.772949218749943" width="108" height="139" side="right" fold="false" treesize="47" color="#c6262e" layout="Manual">
+                      <nodeimage id="25" x="0" y="0" w="600" h="600"/>
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>lsusb</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="13" posx="3931.5729267284214" posy="377.60607215820221" maxwidth="220.9998779296875" width="242" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>Universal Serial BUS</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="15" posx="3813.7841367819638" posy="526.12846013413684" maxwidth="200" width="82" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>lsmod</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="17" posx="3965.1707741517548" posy="546.44128565497169" maxwidth="200" width="220" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>modules == drivers</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="19" posx="3568.2234787107318" posy="1019.0600071894373" maxwidth="114.83447265625" width="136" height="132" side="right" fold="false" treesize="1082.6655815387601" color="#c6262e" layout="Manual">
+                  <nodeimage id="27" x="0" y="0" w="600" h="417"/>
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename>FS</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="21" posx="3812.2255914391562" posy="596.40789758292351" maxwidth="200" width="70" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>/sys</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="23" posx="3984.189967252958" posy="584.58058638500654" maxwidth="200" width="165" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>hardware only</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="25" posx="3928.4689726324723" posy="712.41756709509264" maxwidth="200" width="82" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>/proc</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="27" posx="4082.2280465256999" posy="689.60571813675836" maxwidth="221.34468587239587" width="242" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>PROCesses + hardware</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="29" posx="3970.2095139371349" posy="1166.1377084511114" maxwidth="163.35467529296875" width="185" height="177" side="right" fold="false" treesize="907.28028361002544" color="#c6262e" layout="Manual">
+                      <nodeimage id="28" x="0" y="0" w="600" h="459"/>
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>/dev</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="31" posx="4219.3070277717743" posy="766.31891165749084" maxwidth="200" width="99" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>devices</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="33" posx="4255.2095139371368" posy="844.75415335671005" maxwidth="200" width="110" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>/dev/sda</nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="35" posx="4389.5370285855752" posy="832.95074759499175" maxwidth="200" width="187" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                              <nodename>SATA, SCSI, SDD</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node id="37" posx="4251.0968430386993" posy="908.1772490598355" maxwidth="200" width="110" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>/dev/hda</nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="39" posx="4395.5739548551064" posy="916.58957205788283" maxwidth="200" width="143" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                              <nodename>IDE, CD/DVD</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node id="41" posx="4251.240743592085" posy="972.61769909238728" maxwidth="200" width="110" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>/dev/fd0</nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="43" posx="4383.397593771122" posy="982.67948701556406" maxwidth="200" width="66" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                              <nodename>FLOP</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node id="45" posx="4373.6267502652627" posy="1209.5319345253292" maxwidth="200" width="66" height="44" side="right" fold="false" treesize="488.30621337890625" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>e.g.</nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="47" posx="4559.3611252652627" posy="1059.1823861854859" maxwidth="445.3544921875" width="462" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                              <nodename>/dev/sda1 == first partition, first disk</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="49" posx="4556.5470383512002" posy="1102.8941171425172" maxwidth="451.21630859375" width="473" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                              <nodename>/dev/sda2 == second partition, first disk</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="51" posx="4626.9665940152609" posy="1233.118482376892" maxwidth="505.5513916015625" width="462" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                              <nodename>/dev/sdb1 == fist partition, second disk</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="53" posx="4626.3169968472921" posy="1273.1204965370484" maxwidth="505.5513916015625" width="484" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                              <nodename>/dev/sdb2 == second partition, second disk</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="55" posx="4648.9433396207296" posy="1399.8513314979857" maxwidth="556.509033203125" width="572" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                              <nodename>/dev/hda1 == first partition, first disk as MASTER</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="57" posx="4649.8314011441671" posy="1440.078199173767" maxwidth="556.509033203125" width="572" height="66" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                              <nodename>/dev/hdb2 == second partition, first disk as SLAVE
+</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="59" posx="4652.2212326871359" posy="1482.5233896034545" maxwidth="562.68359375" width="583" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                              <nodename>/dev/hdc3 == third partition, second disk as MASTER</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="61" posx="3631.6503028200391" posy="1234.6120032670513" maxwidth="158.41292317708326" width="180" height="209" side="right" fold="false" treesize="209" color="#c6262e" layout="Manual">
+                  <nodeimage id="22" x="0" y="0" w="596" h="600"/>
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                  <nodename>coldplug</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="63" posx="3574.7930945680855" posy="1518.4715003373638" maxwidth="172.299072265625" width="194" height="146" side="right" fold="false" treesize="146" color="#c6262e" layout="Manual">
+                  <nodeimage id="23" x="0" y="0" w="600" h="338"/>
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                  <nodename>hotplug</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="65" posx="3276.995279947917" posy="2126.7734765960922" maxwidth="291.45083778782896" width="313" height="275" side="right" fold="false" treesize="1022.7212433212128" color="#c6262e" layout="Manual">
+              <nodeimage id="30" x="0" y="0" w="600" h="443"/>
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename>BOOT</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="67" posx="3634.3559366861982" posy="2017.4887313549148" maxwidth="200" width="154" height="47" side="right" fold="false" treesize="737.54741519621291" color="#c6262e" layout="Manual">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename>BOOT PARAMS</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="69" posx="3888.3559366861982" posy="1692.715023756808" maxwidth="200" width="82" height="47" side="right" fold="false" treesize="88.000000000000455" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>acpi=</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="71" posx="4058.3559366861982" posy="1672.215023756808" maxwidth="200" width="99" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>on, off</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="73" posx="4058.3559366861982" posy="1716.2150237568085" maxwidth="200" width="154" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>acpi support</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="75" posx="3888.3559366861982" posy="1771.2936980732154" maxwidth="200" width="82" height="47" side="right" fold="false" treesize="91.121704101562955" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>init=</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="77" posx="4043.7414652506513" posy="1760.2150237568092" maxwidth="200" width="176" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>e.g. /bin/bash</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="79" posx="4041.9219462076826" posy="1807.3367278583717" maxwidth="264.2574462890625" width="286" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>use intead of /sbin/init</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="81" posx="3888.3559366861982" posy="1871.8367278583723" maxwidth="200" width="70" height="47" side="right" fold="false" treesize="88.000000000000227" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>mem=</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="83" posx="4058.3559366861982" posy="1851.3367278583714" maxwidth="200" width="66" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>512M</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="85" posx="4058.3559366861982" posy="1895.3367278583723" maxwidth="200" width="99" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>max RAM</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="87" posx="3888.3559366861982" posy="1959.8367278583723" maxwidth="200" width="118" height="47" side="right" fold="false" treesize="83.86206896551721" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>maxcpus=</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="89" posx="4091.3156113898613" posy="1939.3367278583723" maxwidth="200" width="33" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>2</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="91" posx="4085.0557615784392" posy="1979.1987968238896" maxwidth="200" width="110" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>max cpus</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="93" posx="3888.3559366861982" posy="2043.6987968238896" maxwidth="200" width="70" height="47" side="right" fold="false" treesize="88" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>vga=</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="95" posx="4058.3559366861982" posy="2023.1987968238896" maxwidth="200" width="55" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>773</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="97" posx="4058.3559366861982" posy="2067.1987968238896" maxwidth="200" width="209" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>select video mode</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="99" posx="3899.5615030924482" posy="2138.8206229957632" maxwidth="200" width="82" height="47" side="right" fold="false" treesize="88" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>root=</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="101" posx="4081.5615030924473" posy="2118.3206229957632" maxwidth="200" width="121" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>/dev/sda2</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="103" posx="4105.0436401367188" posy="2162.5036470843052" maxwidth="200" width="198" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>use another root</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="105" posx="3888.3559366861982" posy="2199.1987968238891" maxwidth="200" width="178" height="47" side="right" fold="false" treesize="68.690976899245925" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>quiet, splash</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="107" posx="4116.2158855569769" posy="2223.8897737231355" maxwidth="200" width="198" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>be quiet/splashy</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="109" posx="3888.3559366861982" posy="2267.8897737231359" maxwidth="200" width="94" height="47" side="right" fold="false" treesize="63.37917564655254" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>ro, rw</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="111" posx="4068.847299159258" posy="2287.2689493696876" maxwidth="200" width="198" height="66" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>read only / read and write</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="113" posx="3897.2898356119795" posy="2358.0565470259362" maxwidth="200" width="178" height="72" side="right" fold="false" treesize="78.493489583333485" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                      <nodename>s, single, S, 1, 2, 3, 4, 5</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="115" posx="4153.3615315755205" posy="2392.5500366092692" maxwidth="200" width="121" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                          <nodename>runlevels</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="117" posx="3811.8160603841143" posy="2533.4362670780192" maxwidth="200" width="82" height="47" side="right" fold="false" treesize="88" color="#c6262e" layout="Manual">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename>dmesg</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="119" posx="3993.8160603841143" posy="2512.9362670780192" maxwidth="200" width="176" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                      <nodename>/var/log/dmesg</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="121" posx="3993.8160603841143" posy="2556.9362670780192" maxwidth="200" width="209" height="44" side="right" fold="false" treesize="44" color="#c6262e" layout="Manual">
+                      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+                      <nodename>/var/log/messages</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="123" posx="3721.0507303873701" posy="2608.8074218631755" maxwidth="200" width="142" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Manual">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename>journalctl</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="125" posx="3724.7204691569013" posy="2678.1968871952067" maxwidth="200" width="70" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Manual">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename>UEFI</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="127" posx="3216.1008306135218" posy="2756.8854764078169" maxwidth="253.77154541015625" width="275" height="301" side="right" fold="false" treesize="55" color="#c6262e" layout="Manual">
+              <nodeimage id="31" x="0" y="0" w="600" h="570"/>
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename>RUNLEVELS</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <connections>
+    <connection from_id="25" to_id="21" drag_x="3947.3159071743694" drag_y="672.1901779112934" color="rgb(119,119,119)">
+      <style connectiondash="solid" connectionwidth="4" connectionarrow="both" connectionpadding="3" connectionfont="Ubuntu Mono 13"/>
+      <title>SYSFS</title>
+      <note></note>
+    </connection>
+  </connections>
+</minder>

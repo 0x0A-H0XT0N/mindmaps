@@ -1,0 +1,474 @@
+CEH v11
+	m1 - intro
+		5 elements
+			CIAA non-rep
+				Confidentiality
+				Integrity
+					e.g. HASH
+				Availability
+				Authenticity
+					e.g. digital signatures
+				Non-repudiation
+		attacks = goal + method + vulnerability
+		PACID class of attacks
+			passive
+				sniffing
+			active
+				MITM
+			close-in
+				shoulder surfing
+			insider
+				keyloggers, backdoors by INSIDERs
+			distribution
+				in source, prior to install
+				Topic branch
+		information warfare
+			attack them,
+protect yours
+		cyber kill chain
+			reconnaissance (gather data)
+				weaponazation (the data)
+					delivery (the weapon)
+						exploitation (the victim)
+							installation (the malware)
+								command and control (the malware)
+									actions on objectives (achieve the objective)
+			TTPs
+Tactics
+Techniques
+Procedures
+		laws and standards
+			PCI DSS
+				payment card industry data security standard
+			ISO/IEC 27001:2013 
+				organization: improve infosec
+			HIPPA
+				Health Insurance Portability and Accountability Act
+			SOX
+				Sarbanes Oxley Act 
+				stock market
+			DMCA
+				The Digital Millennium Copyright Act
+				copyright, intellectual property
+			FISMA
+				Federal Information Security Management Act 
+				federal stuff
+			GDPR
+				General Data Protection Regulation
+				EU people data stuff
+			DPA
+				Data Protection Act 2018
+				UK people data protection stuff
+		threat intelligence
+			strategic
+				high-level business decisions
+			tactical
+				TTPs
+			technical
+				technical, specific implementations
+			operational
+				contextual information to help defenders
+	m2 - footprinting and reconnaissance
+		module flow
+			concepts
+				why
+				goals
+			methodology
+			tools
+			countermeasures
+		concepts
+			types
+				passive
+					no direct interaction
+				active
+					direct interaction
+			information obtained
+				organization
+					employee details
+					telephone numbers
+				network
+					whois record
+					domain and sub-domains
+					DNS
+				system
+					OS
+					location of web servers
+					users and passwords
+			goals
+				reduction of focus area
+				identifying vulnerabilities
+				drawing the network map
+				knowledge of the security posture
+		methodology
+			TLDs and sub-domains
+				how to find sub-domains
+					brute force
+					netcraft
+					sublist3r (python)
+						sublist3r [-d DOMAIN] [-b BRUTEFORCE] [-p PORTS] [-v VERBOSE][-t THREADS] [-e ENGINES] [-o OUTPUT]
+					site:microsoft.com -inurl:www
+					pentest-tools find subdomains
+				goals
+					provides insights into departments
+					find weak spots/security holes
+					find testing sites/applications
+			finding geo position of target
+				goals
+					social engineering
+					non-technical attacks
+					find
+						gates
+						entrances
+						security cameras
+						hiding places
+						weak spots in fences
+				tools
+					wikimapia
+					google maps
+					google earth
+			people search
+				goals
+					social engineering
+				tools
+					intelius
+					pipl
+					beenverified
+					whitepages
+					peekyou
+					anywho
+				gives
+					emails
+					websites
+					blocgs
+					contacts
+					dates
+			linkedIn
+				theHarvester
+					find employees and job titles
+					theHarvester -d microsoft -l 200 -b linkedin
+				social engineering
+			emails
+				tools
+					theHarvester
+						theharvester -d microsoft.com -l 200 -b baidu
+							uses baidu search engine to find microsoft emails
+							alternatives to baidu: google, bing, etc
+					email spider
+				goals
+					social engineering
+					brute force attacks
+			finances
+				tools
+					google finance
+					investing.com
+				gives
+					market value
+					company's shares
+					company profile
+					competitor details
+				goals
+					phishing
+					brute force attacks
+					service flooding
+			job sites/postings
+				gives
+					infrastructure details
+				look for
+					job requirements
+					employees' profiles
+					hardware information
+					software information
+				tools
+					dice
+					linkedIn
+					simply hired
+			deep/dark web footprinting
+				tools
+					tor
+					freenet
+					i2p
+				search engines
+					tor browser
+					www virtual library
+					exoneraTor
+						finds if an ip was used in a tor relay
+					onionLand
+			finding the OS
+				tools
+					shodan
+					censys
+					netcraft
+			VoIP and VPN footprinting
+				tools
+					shodan
+			competitive intelligence gathering
+				subtle and non-interfering
+				sources
+					employment ads
+					company websites
+					search engines
+					patent and trademarks
+					annual reports
+					social engineering employees
+				when did this company begin? how did it develop?
+					tools
+						edgar database
+						D & B hoovers
+						lexis nexis
+						business wire
+						factiva
+				what are the company's plans?
+					tools
+						marketWatch
+						the wall street transcript
+						alexa
+						euromonitor
+						experian
+						USPTO
+				what expert opnions say about the company?
+					tools
+						SEMRush
+						AttentionMeter
+						ABI/INFORM global
+						similarWeb
+				direct approach
+					social engineering employees and customers
+				indirect approach
+					gathered using the internet
+				other techniques
+					business profile sites
+						tools
+							corporationwiki
+							crunchbase
+							opencorporates
+					monitoring target using alerts
+						track mentions or websites
+						tools
+							google alerts
+							twitter alerts
+							giga alerts
+					tracking online reputation
+						ORM
+							Online Reputation Management
+						tools
+							trackur
+							brand24
+							mention
+					groups, forums, blogs
+						tools
+							google groups
+							yahoo groups
+					NNTP usenet newsgroups
+						tools
+							newshosting
+							eweka
+			website footprinting
+				tools
+					burp suite
+					zaproxy
+					wappalyzer
+					website informer
+				gives
+					software used and its version
+					OS
+					sub directories
+					parameters
+					technologies
+					contact
+					web server and version
+					content-type
+					connection status
+					accept-ranges and last-modified
+					x-powered-by info
+					comments in the source code
+					filename, path, database field name, query
+						SQL injection
+				web spiders/crawler
+					tools
+						web data extractor
+						parsehub
+				user directed spidering
+					tools
+						burp suite
+							webScarab
+				mirroring a website
+					HTTrack
+					Web site copier
+					NCollector Studio
+				extracting information from archive.org
+					goals
+						emails
+						contact info
+						old versions
+				extracting website links
+					tools
+						octoparse
+						netpeak spider
+						link extractor
+				wordlist from target website
+					tools
+						CeWL
+					goals
+						wordlist for bruteforcing
+				extracting metadata
+					tools
+						metagoofil
+						exiftool
+				other techniques
+					monitoring updates
+						tools
+							visualPing
+							website-watcher
+					searching in the website for contact info
+					copyright notices and revision number deep analyses
+					monitoring tools
+						web-stat
+						alexa
+						monitis
+			search engines
+				search engine
+					google hacking
+					use of operators
+					GHDB
+					google advanced search
+				reverse image search
+					get the source of a image
+					TinEye
+					google image search
+				video search engines
+					youtube dataviewer
+					ezgif
+					getting metadata
+				meta search engines
+					search multiple search engines automatically
+					startpage
+					metager
+				ftp search engines
+					NAPALM FTP indexer
+					global ftp search engine
+				IoT search engines
+					shodan
+					censys
+					thingful
+			social media
+				social media footprinting
+					tools
+						sherlock
+						social searcher
+						userRecon
+				location search from social media
+					tools
+						followerwonk
+						hootsuite
+						sysomos
+				locating information from social media
+					tools
+						buzzsumo
+						google trend
+						hashatit
+						ubersuggest
+			email
+				tracking
+					gives
+						IP address
+						geolocation
+						email received and read
+						read duration
+						proxy detection
+						links checked
+						OS and browser
+						forward email
+						device type
+						path travelled
+					tools
+						eMailTrackerPro
+						infoga
+						mailtrack
+				header
+					gives
+						mail server
+						authentication system
+						date and time
+						unique number by mx.google.com
+						senders full name
+						senders IP address and address
+			whois
+				maintained by regional internet registries ( RIRs)
+					one per continent (5)
+					personal info of domain owners
+				returns
+					domain name details
+					contact details of domain owners
+					DNS
+					network range
+					when it was created
+					expiry records
+					last updated record
+				helps
+					social engineering
+					drawning a network map
+			ip geolocation tools
+				tools
+					ip2location
+					ip location finder
+			DNS
+				find dns records
+					(A, MX, NS, CNAME, SOA, SRV, PTR, RP, HINFO, TXT)
+				tools
+					professional toolset dnsstuff
+					dns records
+					DNSdumpster
+					bluto
+					domain dossier
+				reverse dns lookup
+					tools
+						DNSRecon
+						reverse ip domain checker
+					IP >>> NAME
+			traceroute
+				MITM attacks
+				ICMP or TCP or UDP
+					ICMP is often filtered, then opt for TCP or UDP
+					TCP or UDP, layer 4 traceroute
+				manipulates TTL
+				tools
+					default OS tools
+						tracert
+							windows
+						traceroute
+							linux
+						tcptraceroute
+							linux, TCP
+					path analyzer pro
+					visualRoute
+				drawning the network map
+			social engineering
+				exploit humans
+				techniques
+					eavesdropping
+					shoulder surfing
+					dumpster diving
+					impersonation
+		tools
+			maltego
+				determine relationships and real world links
+			recon-ng
+				web reconnaissance
+			foca
+				fingerprinting organizations with collected archives
+				metadata and hidden info
+			OSRFramework
+				username checking
+				DNS lookups
+				information leaks search
+				deep web search
+				regular expressions extraction
+			OSINT
+			recon-dog
+			billcipher
+			theHarvester
+			Th3Inspector
+			Raccoon
+			Orb
+			PENTMENU
+		countermeasures

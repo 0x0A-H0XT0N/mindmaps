@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<minder>
-  <theme name="Default" index="1"/>
+<minder version="1.13.1">
+  <theme name="default" label="Light" index="-1"/>
   <styles>
-    <style level="0" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 48" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
-    <style level="1" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 34" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
-    <style level="2" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
-    <style level="3" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
-    <style level="4" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
-    <style level="5" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
-    <style level="6" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
-    <style level="7" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
-    <style level="8" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
-    <style level="9" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
-    <style level="10" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="0" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 48" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 34" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
   </styles>
-  <drawarea x="-251.03197224934593" y="57.801610310873457" scale="0.5"/>
+  <drawarea x="-1321.7939351399709" y="1563.4198099772225" scale="0.5"/>
   <images>
     <image id="2" uri="file:///mnt/phoenix/content/mind-maps/pictures/flameshot42-27-10-06.png" ext=".png"/>
     <image id="3" uri="file:///mnt/phoenix/content/mind-maps/pictures/flameshot30-28-10-06.png" ext=".png"/>
@@ -34,407 +34,526 @@
     <image id="18" uri="file:///mnt/phoenix/content/mind-maps/pictures/steps.png" ext=".png"/>
   </images>
   <nodes>
-    <node id="1" posx="461.03990681966116" posy="389.9107106526676" maxwidth="480.87288411458326" width="530" height="115" side="left" fold="false" treesize="5551.3118336995467" layout="Manual">
-      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="20" nodefont="Ubuntu Mono 48" nodemarkup="true"/>
-      <nodename>&lt;b&gt;HOW TO MIND MAP&lt;/b&gt;</nodename>
+    <node id="0" posx="1531.8018697102864" posy="-1115.7074890136814" width="242" height="375" side="left" fold="false" treesize="5551.3118336995467" layout="Manual" group="false">
+      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="20" nodefont="Ubuntu Mono 48" nodemarkup="true"/>
+      <nodename posx="1556.8018697102864" posy="-1090.7074890136814" maxwidth="200">
+        <text data="&lt;b&gt;HOW TO MIND MAP&lt;/b&gt;"/>
+      </nodename>
       <nodenote></nodenote>
       <nodes>
-        <node id="3" posx="324.25923665364462" posy="544.0127563476558" maxwidth="200" width="91" height="68" side="left" fold="false" treesize="2373.0347290039067" color="#f37329" layout="Manual">
-          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 34" nodemarkup="true"/>
-          <nodename>BOI</nodename>
+        <node id="1" posx="1395.0211995442696" posy="-961.60544331869323" width="91" height="68" side="left" fold="false" treesize="2373.0347290039067" color="#f37329" colorroot="false" layout="Manual" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 34" nodemarkup="true"/>
+          <nodename posx="1406.0211995442696" posy="-950.60544331869323" maxwidth="200">
+            <text data="BOI"/>
+          </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="5" posx="52.667073567707121" posy="412.3334350585933" maxwidth="200" width="150" height="121" side="left" fold="false" treesize="121" color="#f37329" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>Baisc Ordering Ideas</nodename>
+            <node id="2" posx="1123.4290364583321" posy="-1093.2847646077557" width="150" height="121" side="left" fold="false" treesize="121" color="#f37329" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="1134.4290364583321" posy="-1082.2847646077557" maxwidth="200">
+                <text data="Baisc Ordering Ideas"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="7" posx="-174.19608561198038" posy="477.92248535156205" maxwidth="200" width="130" height="72" side="left" fold="false" treesize="47" color="#f37329" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>the core framework</nodename>
+                <node id="3" posx="896.56587727864462" posy="-1027.695714314787" width="130" height="72" side="left" fold="false" treesize="47" color="#f37329" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="907.56587727864462" posy="-1016.695714314787" maxwidth="200">
+                    <text data="the core framework"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="9" posx="-33.471781412761629" posy="568.84262084960892" maxwidth="200" width="166" height="55" side="left" fold="false" treesize="55" color="#f37329" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>STRUCTURE</nodename>
+            <node id="4" posx="1037.2901814778634" posy="-936.77557881674011" width="166" height="55" side="left" fold="false" treesize="55" color="#f37329" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="1048.2901814778634" posy="-925.77557881674011" maxwidth="200">
+                <text data="STRUCTURE"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="11" posx="-364.91050211588663" posy="610.05990600585892" maxwidth="200" width="154" height="72" side="left" fold="false" treesize="47" color="#f37329" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>the form of things</nodename>
+                <node id="5" posx="705.85146077473837" posy="-895.55829366048988" width="154" height="72" side="left" fold="false" treesize="47" color="#f37329" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="716.85146077473837" posy="-884.55829366048988" maxwidth="200">
+                    <text data="the form of things"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="13" posx="-24.174051920574129" posy="663.10861206054688" maxwidth="200" width="150" height="55" side="left" fold="false" treesize="55" color="#f37329" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>FUNCTION</nodename>
+            <node id="6" posx="1046.5879109700509" posy="-842.50958760580238" width="150" height="55" side="left" fold="false" treesize="55" color="#f37329" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="1057.5879109700509" posy="-831.50958760580238" maxwidth="200">
+                <text data="FUNCTION"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="15" posx="-420.92978922526163" posy="711.62393188476562" maxwidth="200" width="202" height="97" side="left" fold="false" treesize="47" color="#f37329" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>the purpose of things and what they do</nodename>
+                <node id="7" posx="649.83217366536337" posy="-793.99426778158363" width="202" height="97" side="left" fold="false" treesize="47" color="#f37329" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="660.83217366536337" posy="-782.99426778158363" maxwidth="200">
+                    <text data="the purpose of things and what they do"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="17" posx="-41.953531901042879" posy="782.01187133789153" maxwidth="200" width="182" height="55" side="left" fold="false" treesize="55" color="#f37329" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>PROPERTIES</nodename>
+            <node id="8" posx="1028.8084309895821" posy="-723.60632832845795" width="182" height="55" side="left" fold="false" treesize="55" color="#f37329" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="1039.8084309895821" posy="-712.60632832845795" maxwidth="200">
+                <text data="PROPERTIES"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="19" posx="-443.61307779948038" posy="825.99594116210983" maxwidth="200" width="202" height="97" side="left" fold="false" treesize="47" color="#f37329" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>the characteristics of things</nodename>
+                <node id="9" posx="627.14888509114462" posy="-679.62225850424011" width="202" height="97" side="left" fold="false" treesize="47" color="#f37329" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="638.14888509114462" posy="-668.62225850424011" maxwidth="200">
+                    <text data="the characteristics of things"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="21" posx="-36.736979166667879" posy="872.01217651367233" maxwidth="200" width="166" height="55" side="left" fold="false" treesize="55" color="#f37329" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>PROCESSES</nodename>
+            <node id="10" posx="1034.0249837239571" posy="-633.60602315267784" width="166" height="55" side="left" fold="false" treesize="55" color="#f37329" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="1045.0249837239571" posy="-622.60602315267784" maxwidth="200">
+                <text data="PROCESSES"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="23" posx="-451.49247233073038" posy="956.89688110351608" maxwidth="200" width="202" height="47" side="left" fold="false" treesize="47" color="#f37329" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>how things work</nodename>
+                <node id="11" posx="619.26949055989462" posy="-548.72131856283409" width="202" height="47" side="left" fold="false" treesize="47" color="#f37329" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="630.26949055989462" posy="-537.72131856283409" maxwidth="200">
+                    <text data="how things work"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="25" posx="-41.557169596355379" posy="960.66079711914108" maxwidth="200" width="182" height="55" side="left" fold="false" treesize="55" color="#f37329" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>EVALUATION</nodename>
+            <node id="12" posx="1029.2047932942696" posy="-544.95740254720909" width="182" height="55" side="left" fold="false" treesize="55" color="#f37329" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="1040.2047932942696" posy="-533.95740254720909" maxwidth="200">
+                <text data="EVALUATION"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="27" posx="-468.33365885416788" posy="1051.6184387207031" maxwidth="200" width="190" height="72" side="left" fold="false" treesize="47" color="#f37329" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>how beneficial things are</nodename>
+                <node id="13" posx="602.42830403645712" posy="-453.99976094564659" width="190" height="72" side="left" fold="false" treesize="47" color="#f37329" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="613.42830403645712" posy="-442.99976094564659" maxwidth="200">
+                    <text data="how beneficial things are"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="29" posx="-47.230265299480379" posy="1045.3282165527348" maxwidth="200" width="198" height="55" side="left" fold="false" treesize="55" color="#f37329" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>DEFINITIONS</nodename>
+            <node id="14" posx="1023.5316975911446" posy="-460.28998311361534" width="198" height="55" side="left" fold="false" treesize="55" color="#f37329" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="1034.5316975911446" posy="-449.28998311361534" maxwidth="200">
+                <text data="DEFINITIONS"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="31" posx="-460.63187662760538" posy="1188.1059265136728" maxwidth="200" width="214" height="47" side="left" fold="false" treesize="47" color="#f37329" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>what things mean</nodename>
+                <node id="15" posx="610.13008626301962" posy="-317.51227315267715" width="214" height="47" side="left" fold="false" treesize="47" color="#f37329" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="621.13008626301962" posy="-306.51227315267715" maxwidth="200">
+                    <text data="what things mean"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="33" posx="-77.812662760417879" posy="1171.3969421386728" maxwidth="228.390625" width="246" height="55" side="left" fold="false" treesize="88" color="#f37329" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>CLASSIFICATION</nodename>
+            <node id="16" posx="992.94930013020712" posy="-334.22125752767715" width="214" height="88" side="left" fold="false" treesize="88" color="#f37329" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="1003.9493001302071" posy="-323.22125752767715" maxwidth="200">
+                <text data="CLASSIFICATION"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="35" posx="-460.74564615885538" posy="1298.7464294433612" maxwidth="200" width="190" height="97" side="left" fold="false" treesize="47" color="#f37329" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>how things relate to each other</nodename>
+                <node id="17" posx="610.01631673176962" posy="-206.87177022298897" width="190" height="97" side="left" fold="false" treesize="47" color="#f37329" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="621.01631673176962" posy="-195.87177022298897" maxwidth="200">
+                    <text data="how things relate to each other"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="37" posx="11.011433919269621" posy="1301.8491516113299" maxwidth="200" width="134" height="55" side="left" fold="false" treesize="55" color="#f37329" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>HISTORY</nodename>
+            <node id="18" posx="1081.7733968098946" posy="-203.76904805502022" width="134" height="55" side="left" fold="false" treesize="55" color="#f37329" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="1092.7733968098946" posy="-192.76904805502022" maxwidth="200">
+                <text data="HISTORY"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="39" posx="-456.62003580729288" posy="1426.3616027832049" maxwidth="200" width="178" height="122" side="left" fold="false" treesize="47" color="#f37329" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>the chronological sequence of events</nodename>
+                <node id="19" posx="614.14192708333212" posy="-79.256596883144539" width="178" height="122" side="left" fold="false" treesize="47" color="#f37329" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="625.14192708333212" posy="-68.256596883144539" maxwidth="200">
+                    <text data="the chronological sequence of events"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="41" posx="-91.749247233074129" posy="1468.0719909667987" maxwidth="200" width="214" height="88" side="left" fold="false" treesize="88" color="#f37329" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>PERSONALITIES</nodename>
+            <node id="20" posx="979.01271565755087" posy="-37.546208699550789" width="214" height="88" side="left" fold="false" treesize="88" color="#f37329" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="990.01271565755087" posy="-26.546208699550789" maxwidth="200">
+                <text data="PERSONALITIES"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="43" posx="-453.98935953776163" posy="1583.7375183105469" maxwidth="200" width="190" height="72" side="left" fold="false" treesize="47" color="#f37329" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>peoples roles and characters</nodename>
+                <node id="21" posx="616.77260335286337" posy="78.119318644197392" width="190" height="72" side="left" fold="false" treesize="47" color="#f37329" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="627.77260335286337" posy="89.119318644197392" maxwidth="200">
+                    <text data="peoples roles and characters"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
           </nodes>
         </node>
-        <node id="45" posx="-251.15027872721475" posy="1786.8304443359393" maxwidth="401.27532958984375" width="413" height="68" side="left" fold="false" treesize="764.479736328125" color="#7a36b1" layout="Manual">
-          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 34" nodemarkup="true"/>
-          <nodename>KEEP THIS IS MIND</nodename>
+        <node id="22" posx="819.61168416341025" posy="281.21224466958984" width="183" height="160" side="left" fold="false" treesize="764.479736328125" color="#7a36b1" colorroot="false" layout="Manual" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 34" nodemarkup="true"/>
+          <nodename posx="830.61168416341025" posy="292.21224466958984" maxwidth="200">
+            <text data="KEEP THIS IS MIND"/>
+          </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="47" posx="-1108.1893412272129" posy="1459.6199340820331" maxwidth="459.66229248046875" width="374" height="88" side="left" fold="false" treesize="55" color="#7a36b1" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>What information or knowledge do you need?</nodename>
+            <node id="23" posx="-37.427378336587935" posy="-45.998265584316414" width="214" height="154" side="left" fold="false" treesize="55" color="#7a36b1" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="-26.427378336587935" posy="-34.998265584316414" maxwidth="200">
+                <text data="What information or knowledge do you need?"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="49" posx="-1215.3488871256504" posy="1661.7245483398474" maxwidth="423.49285888671875" width="438" height="88" side="left" fold="false" treesize="55" color="#7a36b1" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>Into which sub-categories can you divide your topic?</nodename>
+            <node id="24" posx="-144.58692423502544" posy="156.10634867349791" width="198" height="220" side="left" fold="false" treesize="55" color="#7a36b1" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="-133.58692423502544" posy="167.10634867349791" maxwidth="200">
+                <text data="Into which sub-categories can you divide your topic?"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="51" posx="-1312.2908426920567" posy="1796.3630981445349" maxwidth="561.74435424804688" width="518" height="121" side="left" fold="false" treesize="55" color="#7a36b1" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>If this were a book, what would its chapter headings be? What lessons or themes are there?</nodename>
+            <node id="25" posx="-241.52887980143169" posy="290.74489847818541" width="214" height="286" side="left" fold="false" treesize="55" color="#7a36b1" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="-230.52887980143169" posy="301.74489847818541" maxwidth="200">
+                <text data="If this were a book, what would its chapter headings be? What lessons or themes are there?"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="53" posx="-1500.5441996256504" posy="1988.0015869140661" maxwidth="752.2481689453125" width="742" height="88" side="left" fold="false" treesize="55" color="#7a36b1" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>Which are the most important seven categories in the topic under consideration?</nodename>
+            <node id="26" posx="-429.78223673502544" posy="482.38338724771666" width="214" height="319" side="left" fold="false" treesize="55" color="#7a36b1" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="-418.78223673502544" posy="493.38338724771666" maxwidth="200">
+                <text data="Which are the most important seven categories in the topic under consideration?"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="55" posx="-1500.267384847004" posy="2219.533345540367" maxwidth="910.83355712890625" width="566" height="55" side="left" fold="false" treesize="55" color="#7a36b1" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>What questions do you need to ask?</nodename>
+            <node id="27" posx="-429.505421956379" posy="713.91514587401753" width="214" height="154" side="left" fold="false" treesize="55" color="#7a36b1" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="-418.505421956379" posy="724.91514587401753" maxwidth="200">
+                <text data="What questions do you need to ask?"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="57" posx="-2019.5080261230469" posy="2170.0181274414099" maxwidth="503.6817626953125" width="418" height="72" side="left" fold="false" treesize="47" color="#7a36b1" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>what?&#x201D;, &#x201C;Where?&#x201D;, &#x201C;Who?&#x201D;, &#x201C;How?&#x201D;, &#x201C;Which?&#x201D;, &#x201C;When?&#x201D;</nodename>
+                <node id="28" posx="-948.74606323242188" posy="664.39992777506041" width="202" height="147" side="left" fold="false" treesize="47" color="#7a36b1" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="-937.74606323242188" posy="675.39992777506041" maxwidth="200">
+                    <text data="what?&#x201D;, &#x201C;Where?&#x201D;, &#x201C;Who?&#x201D;, &#x201C;How?&#x201D;, &#x201C;Which?&#x201D;, &#x201C;When?&#x201D;"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
           </nodes>
         </node>
-        <node id="59" posx="328.90123494466025" posy="3035.6542714436891" maxwidth="241.31256103515625" width="291" height="276" side="left" fold="false" treesize="2165" color="#f9c440" layout="Manual">
-          <nodeimage id="18" x="0" y="0" w="600" h="400"/>
-          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="20" nodefont="Ubuntu Mono 34" nodemarkup="true"/>
-          <nodename>&lt;b&gt;STEPS&lt;/b&gt;</nodename>
+        <node id="29" posx="1399.6631978352852" posy="1530.0360717773433" width="234" height="142" side="left" fold="false" treesize="2165" color="#f9c440" colorroot="false" layout="Manual" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="20" nodefont="Ubuntu Mono 34" nodemarkup="true"/>
+          <nodename posx="1424.6631978352852" posy="1555.0360717773433" maxwidth="200">
+            <text data="&lt;b&gt;STEPS&lt;/b&gt;"/>
+          </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="61" posx="-129.09876505533975" posy="2001.1542714436837" maxwidth="374.360595703125" width="358" height="88" side="left" fold="false" treesize="88" color="#f9c440" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>1. place the sheet of paper horizontally</nodename>
+            <node id="30" posx="941.66319783528525" posy="495.5360717773342" width="214" height="154" side="left" fold="false" treesize="88" color="#f9c440" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="952.66319783528525" posy="506.5360717773342" maxwidth="200">
+                <text data="1. place the sheet of paper horizontally"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="63" posx="-116.09876505533975" posy="2089.1542714436855" maxwidth="323.175537109375" width="345" height="477" side="left" fold="false" treesize="477" color="#f9c440" layout="Manual">
-              <nodeimage id="2" x="0" y="0" w="553" h="600"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>2. draw a picture of the concept using 3 colors</nodename>
+            <node id="31" posx="954.66319783528525" posy="583.53607177733602" width="198" height="187" side="left" fold="false" treesize="477" color="#f9c440" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="965.66319783528525" posy="594.53607177733602" maxwidth="200">
+                <text data="2. draw a picture of the concept using 3 colors"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="65" posx="-112.09876505533975" posy="2566.1542714436837" maxwidth="319.702880859375" width="341" height="371" side="left" fold="false" treesize="371" color="#f9c440" layout="Manual">
-              <nodeimage id="3" x="0" y="0" w="600" h="522"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>3. draw the first branch</nodename>
+            <node id="32" posx="958.66319783528525" posy="1060.5360717773351" width="214" height="88" side="left" fold="false" treesize="371" color="#f9c440" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="969.66319783528525" posy="1071.5360717773351" maxwidth="200">
+                <text data="3. draw the first branch"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="67" posx="-110.09876505533975" posy="2937.1542714436882" maxwidth="317.6953125" width="339" height="384" side="left" fold="false" treesize="384" color="#f9c440" layout="Manual">
-              <nodeimage id="4" x="0" y="0" w="588" h="600"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>4. label the branch</nodename>
+            <node id="33" posx="960.66319783528525" posy="1431.5360717773415" width="214" height="88" side="left" fold="false" treesize="384" color="#f9c440" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="971.66319783528525" posy="1442.5360717773415" maxwidth="200">
+                <text data="4. label the branch"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="69" posx="-111.09876505533975" posy="3321.154271443691" maxwidth="318.01234944661456" width="340" height="300" side="left" fold="false" treesize="300" color="#f9c440" layout="Manual">
-              <nodeimage id="5" x="0" y="0" w="600" h="389"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>5. draw a node within the branch</nodename>
+            <node id="34" posx="959.66319783528525" posy="1815.5360717773433" width="198" height="121" side="left" fold="false" treesize="300" color="#f9c440" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="970.66319783528525" posy="1826.5360717773433" maxwidth="200">
+                <text data="5. draw a node within the branch"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="71" posx="-110.09876505533975" posy="3621.15427144369" maxwidth="317.6708984375" width="339" height="424" side="left" fold="false" treesize="424" color="#f9c440" layout="Manual">
-              <nodeimage id="6" x="0" y="0" w="600" h="439"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>6. start from step 3 until you have five or six branches to work with</nodename>
+            <node id="35" posx="960.66319783528525" posy="2115.5360717773438" width="214" height="220" side="left" fold="false" treesize="424" color="#f9c440" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="971.66319783528525" posy="2126.5360717773438" maxwidth="200">
+                <text data="6. start from step 3 until you have five or six branches to work with"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="73" posx="-17.098765055339754" posy="4045.1542714436928" maxwidth="261.310546875" width="246" height="121" side="left" fold="false" treesize="121" color="#f9c440" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>7. add connections if needed</nodename>
+            <node id="36" posx="1053.6631978352852" posy="2539.5360717773474" width="198" height="121" side="left" fold="false" treesize="121" color="#f9c440" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="1064.6631978352852" posy="2550.5360717773474" maxwidth="200">
+                <text data="7. add connections if needed"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="75" posx="1184.9743550618496" posy="613.59656270344794" maxwidth="200" width="250" height="231" side="right" fold="false" treesize="1686.4013977050765" color="#c6262e" layout="Manual">
-          <nodeimage id="16" x="0" y="0" w="600" h="347"/>
-          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="20" nodefont="Ubuntu Mono 34" nodemarkup="true"/>
-          <nodename>&lt;b&gt;LAWS&lt;/b&gt;</nodename>
+        <node id="37" posx="2255.7363179524746" posy="-892.02163696290086" width="234" height="142" side="right" fold="false" treesize="1686.4013977050765" color="#c6262e" colorroot="false" layout="Manual" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="20" nodefont="Ubuntu Mono 34" nodemarkup="true"/>
+          <nodename posx="2280.7363179524746" posy="-867.02163696290086" maxwidth="200">
+            <text data="&lt;b&gt;LAWS&lt;/b&gt;"/>
+          </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="77" posx="1566.4954732259121" posy="-208.87383524577172" maxwidth="224.4970703125" width="246" height="252" side="right" fold="false" treesize="88" color="#c6262e" layout="Manual">
-              <nodeimage id="15" x="0" y="0" w="600" h="424"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>aim for clarity</nodename>
+            <node id="38" posx="2637.2574361165371" posy="-1714.4920349121207" width="134" height="88" side="right" fold="false" treesize="88" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="2648.2574361165371" posy="-1703.4920349121207" maxwidth="200">
+                <text data="aim for clarity"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="79" posx="1609.2676900227871" posy="102.95776875813226" maxwidth="200" width="214" height="88" side="right" fold="false" treesize="97" color="#c6262e" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>create associations</nodename>
+            <node id="39" posx="2680.0296529134121" posy="-1402.6604309082168" width="214" height="88" side="right" fold="false" treesize="97" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="2691.0296529134121" posy="-1391.6604309082168" maxwidth="200">
+                <text data="create associations"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="81" posx="1923.2676900227834" posy="98.457768758132261" maxwidth="200" width="166" height="97" side="right" fold="false" treesize="97" color="#c6262e" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>use arrows, connections, emphasis</nodename>
+                <node id="40" posx="2994.0296529134084" posy="-1407.1604309082168" width="166" height="97" side="right" fold="false" treesize="97" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="3005.0296529134084" posy="-1396.1604309082168" maxwidth="200">
+                    <text data="use arrows, connections, emphasis"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="83" posx="1684.5467427571621" posy="209.39420064289789" maxwidth="200" width="198" height="187" side="right" fold="false" treesize="187" color="#c6262e" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>branches same lenght as words/images in them</nodename>
+            <node id="41" posx="2755.3087056477871" posy="-1296.2239990234511" width="198" height="187" side="right" fold="false" treesize="187" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="2766.3087056477871" posy="-1285.2239990234511" maxwidth="200">
+                <text data="branches same lenght as words/images in them"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="85" posx="1836.0562642415371" posy="403.00290425618232" maxwidth="200" width="214" height="88" side="right" fold="false" treesize="97" color="#c6262e" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>radiate branches out</nodename>
+            <node id="42" posx="2906.8182271321621" posy="-1102.6152954101667" width="214" height="88" side="right" fold="false" treesize="97" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="2917.8182271321621" posy="-1091.6152954101667" maxwidth="200">
+                <text data="radiate branches out"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="87" posx="2150.0562642415334" posy="398.50290425618141" maxwidth="200" width="214" height="97" side="right" fold="false" treesize="97" color="#c6262e" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>thicker inwards, thinner outwards</nodename>
+                <node id="43" posx="3220.8182271321584" posy="-1107.1152954101676" width="214" height="72" side="right" fold="false" treesize="97" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="3231.8182271321584" posy="-1096.1152954101676" maxwidth="200">
+                    <text data="thicker inwards, thinner outwards"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="89" posx="1766.9996236165371" posy="516.82816060383766" maxwidth="200" width="198" height="154" side="right" fold="false" treesize="154" color="#c6262e" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>each word or image on its own branch</nodename>
+            <node id="44" posx="2837.7615865071621" posy="-988.79003906251137" width="214" height="121" side="right" fold="false" treesize="154" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="2848.7615865071621" posy="-977.79003906251137" maxwidth="200">
+                <text data="each word or image on its own branch"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="91" posx="1904.3900044759084" posy="709.92844136555595" maxwidth="133.03088378906244" width="155" height="182" side="right" fold="false" treesize="55" color="#c6262e" layout="Manual">
-              <nodeimage id="17" x="0" y="0" w="600" h="549"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>keywords</nodename>
+            <node id="45" posx="2975.1519673665334" posy="-795.6897583007933" width="150" height="55" side="right" fold="false" treesize="55" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="2986.1519673665334" posy="-784.6897583007933" maxwidth="200">
+                <text data="keywords"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="93" posx="2149.7745259602834" posy="761.58170064290016" maxwidth="200" width="142" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>upper case</nodename>
+                <node id="46" posx="3220.5364888509084" posy="-744.03649902344978" width="142" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="3231.5364888509084" posy="-733.03649902344978" maxwidth="200">
+                    <text data="upper case"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="95" posx="1708.4100240071621" posy="1001.468877156572" maxwidth="200" width="182" height="121" side="right" fold="false" treesize="176.43524169921875" color="#c6262e" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>draw a picture in the center</nodename>
+            <node id="47" posx="2779.1719868977871" posy="-504.14932250977813" width="182" height="121" side="right" fold="false" treesize="176.43524169921875" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="2790.1719868977871" posy="-493.14932250977813" maxwidth="200">
+                <text data="draw a picture in the center"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="97" posx="1913.6688130696584" posy="937.09082539876135" maxwidth="200" width="190" height="72" side="right" fold="false" treesize="72" color="#c6262e" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>illustrate the concept</nodename>
+                <node id="48" posx="2984.4307759602834" posy="-568.52737426758881" width="190" height="72" side="right" fold="false" treesize="72" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="2995.4307759602834" posy="-557.52737426758881" maxwidth="200">
+                    <text data="illustrate the concept"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="99" posx="1946.6751607259084" posy="1015.109990437822" maxwidth="200" width="214" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>3 colors minimum</nodename>
+                <node id="49" posx="3017.4371236165334" posy="-490.50820922852813" width="214" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="3028.4371236165334" posy="-479.50820922852813" maxwidth="200">
+                    <text data="3 colors minimum"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="101" posx="1997.9415181477834" posy="1068.221928914385" maxwidth="200" width="202" height="122" side="right" fold="false" treesize="47" color="#c6262e" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>what do you want your mind map to revel to you?</nodename>
+                <node id="50" posx="3068.7034810384084" posy="-437.39627075196472" width="214" height="97" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="3079.7034810384084" posy="-426.39627075196472" maxwidth="200">
+                    <text data="what do you want your mind map to revel to you?"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="103" posx="1793.5176900227834" posy="1281.1073964436873" maxwidth="200" width="166" height="88" side="right" fold="false" treesize="166.00000000000091" color="#c6262e" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>use white paper</nodename>
+            <node id="51" posx="2864.2796529134084" posy="-224.51080322266284" width="166" height="88" side="right" fold="false" treesize="166.00000000000091" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="2875.2796529134084" posy="-213.51080322266284" maxwidth="200">
+                <text data="use white paper"/>
+              </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="105" posx="2059.5176900227834" posy="1242.1073964436855" maxwidth="200" width="166" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>large enough</nodename>
+                <node id="52" posx="3130.2796529134084" posy="-263.51080322266466" width="166" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="3141.2796529134084" posy="-252.51080322266466" maxwidth="200">
+                    <text data="large enough"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="107" posx="2059.5176900227834" posy="1289.1073964436873" maxwidth="200" width="130" height="72" side="right" fold="false" treesize="72" color="#c6262e" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>landscape postion</nodename>
+                <node id="53" posx="3130.2796529134084" posy="-216.51080322266284" width="130" height="72" side="right" fold="false" treesize="72" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="3141.2796529134084" posy="-205.51080322266284" maxwidth="200">
+                    <text data="landscape postion"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="109" posx="2059.5176900227834" posy="1361.1073964436873" maxwidth="200" width="166" height="72" side="right" fold="false" treesize="47" color="#c6262e" layout="Manual">
-                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename>avoid distractions</nodename>
+                <node id="54" posx="3130.2796529134084" posy="-144.51080322266307" width="166" height="72" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
+                  <nodename posx="3141.2796529134084" posy="-133.51080322266307" maxwidth="200">
+                    <text data="avoid distractions"/>
+                  </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="111" posx="1413.9206441243477" posy="1413.1118520100936" maxwidth="226.58186848958331" width="248" height="188" side="right" fold="false" treesize="55" color="#c6262e" layout="Manual">
-              <nodeimage id="14" x="0" y="0" w="600" h="338"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>be colorful</nodename>
+            <node id="55" posx="2484.6826070149727" posy="-92.506347656255912" width="198" height="55" side="right" fold="false" treesize="55" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="2495.6826070149727" posy="-81.506347656255912" maxwidth="200">
+                <text data="be colorful"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="113" posx="1719.9122212727871" posy="1390.397069295248" maxwidth="200" width="198" height="121" side="right" fold="false" treesize="121" color="#c6262e" layout="Manual">
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>use images, codes, symbols</nodename>
+            <node id="56" posx="2790.6741841634121" posy="-115.22113037110239" width="198" height="121" side="right" fold="false" treesize="121" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="2801.6741841634121" posy="-104.22113037110239" maxwidth="200">
+                <text data="use images, codes, symbols"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="115" posx="1124.9633687337282" posy="2244.7222493489644" maxwidth="259.33837890625" width="309" height="261" side="right" fold="false" treesize="603.94836425781205" color="#3689e6" layout="Manual">
-          <nodeimage id="8" x="0" y="0" w="600" h="338"/>
-          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="20" nodefont="Ubuntu Mono 34" nodemarkup="true"/>
-          <nodename>&lt;b&gt;INGREDIENTS&lt;/b&gt;</nodename>
+        <node id="57" posx="2195.7253316243532" posy="739.10404968261491" width="234" height="188" side="right" fold="false" treesize="603.94836425781205" color="#3689e6" colorroot="false" layout="Manual" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="20" nodefont="Ubuntu Mono 34" nodemarkup="true"/>
+          <nodename posx="2220.7253316243532" posy="764.10404968261491" maxwidth="200">
+            <text data="&lt;b&gt;INGREDIENTS&lt;/b&gt;"/>
+          </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="117" posx="1848.5985005696584" posy="1864.7407226562555" maxwidth="331.37451171875" width="353" height="267" side="right" fold="false" treesize="162" color="#3689e6" layout="Manual">
-              <nodeimage id="7" x="0" y="0" w="600" h="375"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>COLORS</nodename>
+            <node id="58" posx="2919.3604634602834" posy="359.12252298990597" width="118" height="55" side="right" fold="false" treesize="162" color="#3689e6" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="2930.3604634602834" posy="370.12252298990597" maxwidth="200">
+                <text data="COLORS"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="119" posx="1929.7639058430996" posy="2147.7892659505287" maxwidth="200" width="222" height="261" side="right" fold="false" treesize="55" color="#3689e6" layout="Manual">
-              <nodeimage id="9" x="0" y="0" w="600" h="600"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>IMAGES</nodename>
+            <node id="59" posx="3000.5258687337246" posy="642.17106628417923" width="118" height="55" side="right" fold="false" treesize="55" color="#3689e6" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="3011.5258687337246" posy="653.17106628417923" maxwidth="200">
+                <text data="IMAGES"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="121" posx="2009.9573465983067" posy="2487.6894124349037" maxwidth="200" width="222" height="179" side="right" fold="false" treesize="55" color="#3689e6" layout="Manual">
-              <nodeimage id="10" x="0" y="0" w="600" h="354"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>WORDS</nodename>
+            <node id="60" posx="3080.7193094889317" posy="982.07121276855514" width="102" height="55" side="right" fold="false" treesize="55" color="#3689e6" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="3091.7193094889317" posy="993.07121276855514" maxwidth="200">
+                <text data="WORDS"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="123" posx="1990.3169860839826" posy="2810.2346394856822" maxwidth="200" width="222" height="322" side="right" fold="false" treesize="88" color="#3689e6" layout="Manual">
-              <nodeimage id="12" x="0" y="0" w="526" h="600"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>RADIANT THINKING</nodename>
+            <node id="61" posx="3061.0789489746076" posy="1304.6164398193355" width="150" height="88" side="right" fold="false" treesize="88" color="#3689e6" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="3072.0789489746076" posy="1315.6164398193355" maxwidth="200">
+                <text data="RADIANT THINKING"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="125" posx="1976.2067769368459" posy="3190.299438476568" maxwidth="200" width="222" height="218" side="right" fold="false" treesize="88" color="#3689e6" layout="Manual">
-              <nodeimage id="11" x="0" y="0" w="600" h="374"/>
-              <style linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename>NON-LINEAR ORGANIC FLOW</nodename>
+            <node id="62" posx="3046.9687398274709" posy="1684.6812388102221" width="214" height="88" side="right" fold="false" treesize="88" color="#3689e6" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="6" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
+              <nodename posx="3057.9687398274709" posy="1695.6812388102221" maxwidth="200">
+                <text data="NON-LINEAR ORGANIC FLOW"/>
+              </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
       </nodes>
     </node>
+    <node id="63" posx="1531.8018697102864" posy="2760.5360717773456" width="154" height="44" side="right" fold="false" treesize="44" layout="Manual" group="false">
+      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
+      <nodename posx="1542.8018697102864" posy="2771.5360717773456" maxwidth="200">
+        <text data="Another Idea"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
   </nodes>
+  <groups/>
   <connections>
-    <connection from_id="117" to_id="111" drag_x="1867.8676859537745" drag_y="1722.333910624182" color="rgb(138,226,52)">
-      <style connectiondash="solid" connectionwidth="3" connectionarrow="both" connectionpadding="2" connectionfont="Sans 1"/>
+    <connection from_id="58" to_id="55" drag_x="2938.6296488443986" drag_y="216.71571095783474" color="#8ae234">
+      <style connectiondash="solid" connectionlwidth="3" connectionarrow="both" connectionpadding="2" connectionfont="Sans 1" connectiontwidth="100"/>
       <title></title>
       <note></note>
     </connection>
-    <connection from_id="113" to_id="119" drag_x="2118.5912577311146" drag_y="1939.0706965128538" color="rgb(138,226,52)">
-      <style connectiondash="solid" connectionwidth="3" connectionarrow="both" connectionpadding="3" connectionfont="Sans 10"/>
+    <connection from_id="56" to_id="59" drag_x="3189.3532206217369" drag_y="433.45249684650935" color="#8ae234">
+      <style connectiondash="solid" connectionlwidth="3" connectionarrow="both" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
       <title></title>
       <note></note>
     </connection>
-    <connection from_id="121" to_id="91" drag_x="2659.7225443522111" drag_y="1559.5330886840784" color="rgb(138,226,52)">
-      <style connectiondash="solid" connectionwidth="3" connectionarrow="both" connectionpadding="3" connectionfont="Sans 10"/>
+    <connection from_id="60" to_id="45" drag_x="3730.4845072428343" drag_y="53.914889017730275" color="#8ae234">
+      <style connectiondash="solid" connectionlwidth="3" connectionarrow="both" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
       <title></title>
       <note></note>
     </connection>
-    <connection from_id="85" to_id="123" drag_x="2775.2055155436174" drag_y="1524.4287719726544" color="rgb(138,226,52)">
-      <style connectiondash="solid" connectionwidth="3" connectionarrow="both" connectionpadding="3" connectionfont="Sans 10"/>
+    <connection from_id="42" to_id="61" drag_x="3845.9674784342451" drag_y="18.810572306306312" color="#8ae234">
+      <style connectiondash="solid" connectionlwidth="3" connectionarrow="both" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
       <title></title>
       <note></note>
     </connection>
-    <connection from_id="77" to_id="125" drag_x="2939.3585917154905" drag_y="1258.0463562011714" color="rgb(138,226,52)">
-      <style connectiondash="solid" connectionwidth="3" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <connection from_id="38" to_id="62" drag_x="4010.1205546061174" drag_y="-247.5718434651767" color="#8ae234">
+      <style connectiondash="solid" connectionlwidth="3" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
       <title></title>
       <note></note>
     </connection>
   </connections>
+  <stickers/>
 </minder>

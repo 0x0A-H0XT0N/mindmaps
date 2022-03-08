@@ -24,7 +24,7 @@ CEH v11
 				Topic branch
 		information warfare
 			attack them,
-protect yours
+protect yours	
 		cyber kill chain
 			reconnaissance (gather data)
 				weaponazation (the data)
@@ -110,6 +110,7 @@ Procedures
 					pentest-tools find subdomains
 				goals
 					provides insights into departments
+					
 					find weak spots/security holes
 					find testing sites/applications
 			finding geo position of target
@@ -143,6 +144,7 @@ Procedures
 					contacts
 					dates
 			linkedIn
+			
 				theHarvester
 					find employees and job titles
 					theHarvester -d microsoft -l 200 -b linkedin

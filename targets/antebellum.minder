@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<minder version="1.13.1">
+  <theme name="dark" label="Dark" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="0" y="0" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="894.5" posy="497.5" width="139" height="49" side="right" fold="false" treesize="49" layout="Horizontal" group="false">
+      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true"/>
+      <nodename posx="905.5" posy="508.5" maxwidth="200">
+        <text data="Main Idea"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

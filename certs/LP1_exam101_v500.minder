@@ -3,8 +3,8 @@
   <theme name="default" label="Light" index="-1"/>
   <styles>
     <style level="0" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
-    <style level="1" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
-    <style level="2" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
     <style level="3" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
     <style level="4" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
     <style level="5" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
@@ -14,7 +14,7 @@
     <style level="9" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
     <style level="10" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="JetBrains Mono 16" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="JetBrains Mono 12" connectiontwidth="100"/>
   </styles>
-  <drawarea x="136.32663231565175" y="-1337.1663949006972" scale="0.5"/>
+  <drawarea x="-2001.4360629968482" y="-2376.9068734163225" scale="0.25"/>
   <images>
     <image id="19" uri="file:///mnt/phoenix/content/mind-maps/pictures/linux-logo.png" ext=".png"/>
     <image id="20" uri="file:///mnt/phoenix/content/mind-maps/pictures/architecture.jpeg" ext=".jpeg"/>
@@ -31,67 +31,67 @@
     <image id="31" uri="file:///mnt/phoenix/content/mind-maps/pictures/stairs.jpg" ext=".jpg"/>
   </images>
   <nodes>
-    <node id="0" posx="194.50981381064958" posy="1731.5289539013452" width="236" height="158" side="left" fold="false" treesize="2991.8913791838754" layout="Manual" group="false">
+    <node id="0" posx="2332.2725091231496" posy="2771.2694324169702" width="236" height="158" side="left" fold="false" treesize="2991.8913791838754" layout="Manual" group="false">
       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="11" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 50" nodemarkup="true"/>
-      <nodename posx="205.50981381064958" posy="1742.5289539013452" maxwidth="200">
+      <nodename posx="2343.2725091231496" posy="2782.2694324169702" maxwidth="200">
         <text data="LPI-101"/>
       </nodename>
       <nodenote>weight: 60 </nodenote>
       <nodes>
-        <node id="1" posx="530.23727470531867" posy="1008.112149637888" width="222" height="68" side="right" fold="false" treesize="2606.7875745419087" color="#c6262e" colorroot="false" layout="Manual" group="false">
+        <node id="1" posx="2667.9999700178187" posy="2047.8526281535133" width="222" height="68" side="right" fold="false" treesize="2606.7875745419087" color="#c6262e" colorroot="false" layout="Manual" group="false">
           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 34" nodemarkup="true"/>
-          <nodename posx="541.23727470531867" posy="1019.112149637888" maxwidth="200">
+          <nodename posx="2678.9999700178187" posy="2058.8526281535133" maxwidth="200">
             <text data="SYS ARCH"/>
           </nodename>
           <nodenote>weight: 8</nodenote>
           <nodes>
-            <node id="2" posx="1063.442172937227" posy="50.760855648265306" width="150" height="55" side="right" fold="false" treesize="1366.9802973078597" color="#c6262e" colorroot="false" layout="Manual" group="false">
+            <node id="2" posx="3201.204868249727" posy="1090.5013341638905" width="150" height="55" side="right" fold="false" treesize="1366.9802973078597" color="#c6262e" colorroot="false" layout="Manual" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename posx="1074.442172937227" posy="61.760855648265306" maxwidth="200">
+              <nodename posx="3212.204868249727" posy="1101.5013341638905" maxwidth="200">
                 <text data="HARDWARE"/>
               </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="3" posx="1474.9938840964178" posy="-815.40950373304941" width="70" height="47" side="right" fold="false" treesize="361.60701497395775" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                <node id="3" posx="3612.7565794089178" posy="224.33097478257559" width="70" height="47" side="right" fold="false" treesize="361.60701497395775" color="#c6262e" colorroot="false" layout="Manual" group="false">
                   <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename posx="1485.9938840964178" posy="-804.40950373304941" maxwidth="200">
+                  <nodename posx="3623.7565794089178" posy="235.33097478257559" maxwidth="200">
                     <text data="LIST"/>
                   </nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="4" posx="1707.7286456524062" posy="-1102.3624252825302" width="82" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="4" posx="3845.4913409649062" posy="-62.621946766905126" width="82" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1718.7286456524062" posy="-1091.3624252825302" maxwidth="200">
+                      <nodename posx="3856.4913409649062" posy="-51.621946766905126" maxwidth="200">
                         <text data="lspci"/>
                       </nodename>
                       <nodenote></nodenote>
                     </node>
-                    <node id="5" posx="1701.8033933737606" posy="-939.02237808201016" width="82" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="5" posx="3839.5660886862606" posy="100.71810043361484" width="82" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1712.8033933737606" posy="-928.02237808201016" maxwidth="200">
+                      <nodename posx="3850.5660886862606" posy="111.71810043361484" maxwidth="200">
                         <text data="lsusb"/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="6" posx="1877.6587421581089" posy="-929.8542549902354" width="198" height="66" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="6" posx="4015.4214374706089" posy="109.8862235253896" width="198" height="66" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="1888.6587421581089" posy="-918.8542549902354" maxwidth="200">
+                          <nodename posx="4026.4214374706089" posy="120.8862235253896" maxwidth="200">
                             <text data="Universal Serial BUS"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
                       </nodes>
                     </node>
-                    <node id="7" posx="1759.8699522116513" posy="-781.33186701430077" width="82" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="7" posx="3897.6326475241513" posy="258.40861150132423" width="82" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1770.8699522116513" posy="-770.33186701430077" maxwidth="200">
+                      <nodename posx="3908.6326475241513" posy="269.40861150132423" maxwidth="200">
                         <text data="lsmod"/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="8" posx="1911.2565895814423" posy="-761.01904149346581" width="220" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="8" posx="4049.0192848939423" posy="278.72143702215908" width="220" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="1922.2565895814423" posy="-750.01904149346581" maxwidth="200">
+                          <nodename posx="4060.0192848939423" posy="289.72143702215908" maxwidth="200">
                             <text data="modules == drivers"/>
                           </nodename>
                           <nodenote></nodenote>
@@ -100,159 +100,159 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="9" posx="1514.3092941404193" posy="-288.40031995900017" width="46" height="47" side="right" fold="false" treesize="1082.6655815387601" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                <node id="9" posx="3652.0719894529193" posy="751.34015855662483" width="46" height="47" side="right" fold="false" treesize="1082.6655815387601" color="#c6262e" colorroot="false" layout="Manual" group="false">
                   <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename posx="1525.3092941404193" posy="-277.40031995900017" maxwidth="200">
+                  <nodename posx="3663.0719894529193" posy="762.34015855662483" maxwidth="200">
                     <text data="FS"/>
                   </nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="10" posx="1758.3114068688437" posy="-711.05242956551399" width="70" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="10" posx="3896.0741021813437" posy="328.6880489501109" width="70" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1769.3114068688437" posy="-700.05242956551399" maxwidth="200">
+                      <nodename posx="3907.0741021813437" posy="339.6880489501109" maxwidth="200">
                         <text data="/sys"/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="11" posx="1930.2757826826455" posy="-722.87974076343096" width="165" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="11" posx="4068.0384779951455" posy="316.86073775219393" width="165" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="1941.2757826826455" posy="-711.87974076343096" maxwidth="200">
+                          <nodename posx="4079.0384779951455" posy="327.86073775219393" maxwidth="200">
                             <text data="hardware only"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
                       </nodes>
                     </node>
-                    <node id="12" posx="1874.5547880621598" posy="-595.04276005334486" width="82" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="12" posx="4012.3174833746598" posy="444.69771846228014" width="82" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1885.5547880621598" posy="-584.04276005334486" maxwidth="200">
+                      <nodename posx="4023.3174833746598" posy="455.69771846228014" maxwidth="200">
                         <text data="/proc"/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="13" posx="2028.3138619553874" posy="-617.85460901167914" width="143" height="66" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="13" posx="4166.0765572678874" posy="421.88586950394574" width="143" height="66" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2039.3138619553874" posy="-606.85460901167914" maxwidth="200">
+                          <nodename posx="4177.0765572678874" posy="432.88586950394574" maxwidth="200">
                             <text data="PROCesses + hardware"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
                       </nodes>
                     </node>
-                    <node id="14" posx="1916.2953293668224" posy="-141.32261869732611" width="70" height="47" side="right" fold="false" treesize="907.28028361002544" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="14" posx="4054.0580246793224" posy="898.41785981829889" width="70" height="47" side="right" fold="false" treesize="907.28028361002544" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1927.2953293668224" posy="-130.32261869732611" maxwidth="200">
+                      <nodename posx="4065.0580246793224" posy="909.41785981829889" maxwidth="200">
                         <text data="/dev"/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="15" posx="2165.3928432014618" posy="-541.14141549094666" width="99" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="15" posx="4303.1555385139618" posy="498.59906302467834" width="99" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2176.3928432014618" posy="-530.14141549094666" maxwidth="200">
+                          <nodename posx="4314.1555385139618" posy="509.59906302467834" maxwidth="200">
                             <text data="devices"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
-                        <node id="16" posx="2201.2953293668243" posy="-462.70617379172745" width="110" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="16" posx="4339.0580246793243" posy="577.03430472389755" width="110" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2212.2953293668243" posy="-451.70617379172745" maxwidth="200">
+                          <nodename posx="4350.0580246793243" posy="588.03430472389755" maxwidth="200">
                             <text data="/dev/sda"/>
                           </nodename>
                           <nodenote></nodenote>
                           <nodes>
-                            <node id="17" posx="2335.6228440152627" posy="-474.50957955344575" width="187" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                            <node id="17" posx="4473.3855393277627" posy="565.23089896217925" width="187" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                              <nodename posx="2346.6228440152627" posy="-463.50957955344575" maxwidth="200">
+                              <nodename posx="4484.3855393277627" posy="576.23089896217925" maxwidth="200">
                                 <text data="SATA, SCSI, SDD"/>
                               </nodename>
                               <nodenote></nodenote>
                             </node>
                           </nodes>
                         </node>
-                        <node id="18" posx="2197.1826584683868" posy="-399.283078088602" width="110" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="18" posx="4334.9453537808868" posy="640.457400427023" width="110" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2208.1826584683868" posy="-388.283078088602" maxwidth="200">
+                          <nodename posx="4345.9453537808868" posy="651.457400427023" maxwidth="200">
                             <text data="/dev/hda"/>
                           </nodename>
                           <nodenote></nodenote>
                           <nodes>
-                            <node id="19" posx="2341.6597702847939" posy="-390.87075509055467" width="143" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                            <node id="19" posx="4479.4224655972939" posy="648.86972342507033" width="143" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                              <nodename posx="2352.6597702847939" posy="-379.87075509055467" maxwidth="200">
+                              <nodename posx="4490.4224655972939" posy="659.86972342507033" maxwidth="200">
                                 <text data="IDE, CD/DVD"/>
                               </nodename>
                               <nodenote></nodenote>
                             </node>
                           </nodes>
                         </node>
-                        <node id="20" posx="2197.3265590217725" posy="-334.84262805605022" width="110" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="20" posx="4335.0892543342725" posy="704.89785045957478" width="110" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2208.3265590217725" posy="-323.84262805605022" maxwidth="200">
+                          <nodename posx="4346.0892543342725" posy="715.89785045957478" maxwidth="200">
                             <text data="/dev/fd0"/>
                           </nodename>
                           <nodenote></nodenote>
                           <nodes>
-                            <node id="21" posx="2329.4834092008095" posy="-324.78084013287344" width="66" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                            <node id="21" posx="4467.2461045133095" posy="714.95963838275156" width="66" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                              <nodename posx="2340.4834092008095" posy="-313.78084013287344" maxwidth="200">
+                              <nodename posx="4478.2461045133095" posy="725.95963838275156" maxwidth="200">
                                 <text data="FLOP"/>
                               </nodename>
                               <nodenote></nodenote>
                             </node>
                           </nodes>
                         </node>
-                        <node id="22" posx="2319.7125656949502" posy="-97.928392623108266" width="66" height="44" side="right" fold="false" treesize="488.30621337890625" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="22" posx="4457.4752610074502" posy="941.81208589251673" width="66" height="44" side="right" fold="false" treesize="488.30621337890625" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2330.7125656949502" posy="-86.928392623108266" maxwidth="200">
+                          <nodename posx="4468.4752610074502" posy="952.81208589251673" maxwidth="200">
                             <text data="e.g."/>
                           </nodename>
                           <nodenote></nodenote>
                           <nodes>
-                            <node id="23" posx="2505.4469406949502" posy="-248.27794096295156" width="220" height="88" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                            <node id="23" posx="4643.2096360074502" posy="791.46253755267344" width="220" height="88" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                              <nodename posx="2516.4469406949502" posy="-237.27794096295156" maxwidth="200">
+                              <nodename posx="4654.2096360074502" posy="802.46253755267344" maxwidth="200">
                                 <text data="/dev/sda1 == first partition, first disk"/>
                               </nodename>
                               <nodenote></nodenote>
                             </node>
-                            <node id="24" posx="2502.6328537808877" posy="-204.56621000592031" width="209" height="88" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                            <node id="24" posx="4640.3955490933877" posy="835.17426850970469" width="209" height="88" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                              <nodename posx="2513.6328537808877" posy="-193.56621000592031" maxwidth="200">
+                              <nodename posx="4651.3955490933877" posy="846.17426850970469" maxwidth="200">
                                 <text data="/dev/sda2 == second partition, first disk"/>
                               </nodename>
                               <nodenote></nodenote>
                             </node>
-                            <node id="25" posx="2573.0524094449484" posy="-74.341844771545539" width="209" height="88" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                            <node id="25" posx="4710.8151047574484" posy="965.39863374407946" width="209" height="88" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                              <nodename posx="2584.0524094449484" posy="-63.341844771545539" maxwidth="200">
+                              <nodename posx="4721.8151047574484" posy="976.39863374407946" maxwidth="200">
                                 <text data="/dev/sdb1 == fist partition, second disk"/>
                               </nodename>
                               <nodenote></nodenote>
                             </node>
-                            <node id="26" posx="2572.4028122769796" posy="-34.339830611389061" width="209" height="88" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                            <node id="26" posx="4710.1655075894796" posy="1005.4006479042359" width="209" height="88" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                              <nodename posx="2583.4028122769796" posy="-23.339830611389061" maxwidth="200">
+                              <nodename posx="4721.1655075894796" posy="1016.4006479042359" maxwidth="200">
                                 <text data="/dev/sdb2 == second partition, second disk"/>
                               </nodename>
                               <nodenote></nodenote>
                             </node>
-                            <node id="27" posx="2595.0291550504171" posy="92.391004349548211" width="220" height="88" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                            <node id="27" posx="4732.7918503629171" posy="1132.131482865173" width="220" height="88" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                              <nodename posx="2606.0291550504171" posy="103.39100434954821" maxwidth="200">
+                              <nodename posx="4743.7918503629171" posy="1143.131482865173" maxwidth="200">
                                 <text data="/dev/hda1 == first partition, first disk as MASTER"/>
                               </nodename>
                               <nodenote></nodenote>
                             </node>
-                            <node id="28" posx="2595.9172165738546" posy="132.61787202532946" width="209" height="132" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                            <node id="28" posx="4733.6799118863546" posy="1172.3583505409542" width="209" height="132" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                              <nodename posx="2606.9172165738546" posy="143.61787202532946" maxwidth="200">
+                              <nodename posx="4744.6799118863546" posy="1183.3583505409542" maxwidth="200">
                                 <text data="/dev/hdb2 == second partition, first disk as SLAVE&#10;"/>
                               </nodename>
                               <nodenote></nodenote>
                             </node>
-                            <node id="29" posx="2598.3070481168234" posy="175.06306245501696" width="220" height="88" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                            <node id="29" posx="4736.0697434293234" posy="1214.8035409706417" width="220" height="88" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                              <nodename posx="2609.3070481168234" posy="186.06306245501696" maxwidth="200">
+                              <nodename posx="4747.0697434293234" posy="1225.8035409706417" maxwidth="200">
                                 <text data="/dev/hdc3 == third partition, second disk as MASTER"/>
                               </nodename>
                               <nodenote></nodenote>
@@ -263,216 +263,216 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="30" posx="1577.7361182497261" posy="-72.84832388138625" width="110" height="44" side="right" fold="false" treesize="209" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                <node id="30" posx="3715.4988135622261" posy="966.89215463423875" width="110" height="44" side="right" fold="false" treesize="209" color="#c6262e" colorroot="false" layout="Manual" group="false">
                   <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                  <nodename posx="1588.7361182497261" posy="-61.84832388138625" maxwidth="200">
+                  <nodename posx="3726.4988135622261" posy="977.89215463423875" maxwidth="200">
                     <text data="coldplug"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="31" posx="1520.878909997773" posy="211.01117318892625" width="99" height="44" side="right" fold="false" treesize="146" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                <node id="31" posx="3658.641605310273" posy="1250.7516517045515" width="99" height="44" side="right" fold="false" treesize="146" color="#c6262e" colorroot="false" layout="Manual" group="false">
                   <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                  <nodename posx="1531.878909997773" posy="222.01117318892625" maxwidth="200">
+                  <nodename posx="3669.641605310273" posy="1261.7516517045515" maxwidth="200">
                     <text data="hotplug"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="32" posx="1223.0810953776042" posy="819.31314944765472" width="86" height="55" side="right" fold="false" treesize="1022.7212433212128" color="#c6262e" colorroot="false" layout="Manual" group="false">
+            <node id="32" posx="3360.8437906901045" posy="1859.0536279632797" width="86" height="55" side="right" fold="false" treesize="1022.7212433212128" color="#c6262e" colorroot="false" layout="Manual" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename posx="1234.0810953776042" posy="830.31314944765472" maxwidth="200">
+              <nodename posx="3371.8437906901045" posy="1870.0536279632797" maxwidth="200">
                 <text data="BOOT"/>
               </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="33" posx="1580.4417521158857" posy="710.02840420647726" width="154" height="47" side="right" fold="false" treesize="737.54741519621291" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                <node id="33" posx="3718.2044474283857" posy="1749.7688827221023" width="154" height="47" side="right" fold="false" treesize="737.54741519621291" color="#c6262e" colorroot="false" layout="Manual" group="false">
                   <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename posx="1591.4417521158857" posy="721.02840420647726" maxwidth="200">
+                  <nodename posx="3729.2044474283857" posy="1760.7688827221023" maxwidth="200">
                     <text data="BOOT PARAMS"/>
                   </nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="34" posx="1834.4417521158857" posy="385.25469660837052" width="82" height="47" side="right" fold="false" treesize="88.000000000000455" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="34" posx="3972.2044474283857" posy="1424.9951751239955" width="82" height="47" side="right" fold="false" treesize="88.000000000000455" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1845.4417521158857" posy="396.25469660837052" maxwidth="200">
+                      <nodename posx="3983.2044474283857" posy="1435.9951751239955" maxwidth="200">
                         <text data="acpi="/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="35" posx="2004.4417521158857" posy="364.75469660837052" width="99" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="35" posx="4142.2044474283857" posy="1404.4951751239955" width="99" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2015.4417521158857" posy="375.75469660837052" maxwidth="200">
+                          <nodename posx="4153.2044474283857" posy="1415.4951751239955" maxwidth="200">
                             <text data="on, off"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
-                        <node id="36" posx="2004.4417521158857" posy="408.75469660837098" width="154" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="36" posx="4142.2044474283857" posy="1448.495175123996" width="154" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2015.4417521158857" posy="419.75469660837098" maxwidth="200">
+                          <nodename posx="4153.2044474283857" posy="1459.495175123996" maxwidth="200">
                             <text data="acpi support"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
                       </nodes>
                     </node>
-                    <node id="37" posx="1834.4417521158857" posy="463.83337092477791" width="82" height="47" side="right" fold="false" treesize="91.121704101562955" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="37" posx="3972.2044474283857" posy="1503.5738494404031" width="82" height="47" side="right" fold="false" treesize="91.121704101562955" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1845.4417521158857" posy="474.83337092477791" maxwidth="200">
+                      <nodename posx="3983.2044474283857" posy="1514.5738494404031" maxwidth="200">
                         <text data="init="/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="38" posx="1989.8272806803388" posy="452.75469660837166" width="176" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="38" posx="4127.5899759928388" posy="1492.4951751239969" width="176" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2000.8272806803388" posy="463.75469660837166" maxwidth="200">
+                          <nodename posx="4138.5899759928388" posy="1503.4951751239969" maxwidth="200">
                             <text data="e.g. /bin/bash"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
-                        <node id="39" posx="1988.0077616373701" posy="499.87640070993416" width="187" height="66" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="39" posx="4125.7704569498701" posy="1539.6168792255594" width="187" height="66" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="1999.0077616373701" posy="510.87640070993416" maxwidth="200">
+                          <nodename posx="4136.7704569498701" posy="1550.6168792255594" maxwidth="200">
                             <text data="use intead of /sbin/init"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
                       </nodes>
                     </node>
-                    <node id="40" posx="1834.4417521158857" posy="564.37640070993484" width="70" height="47" side="right" fold="false" treesize="88.000000000000227" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="40" posx="3972.2044474283857" posy="1604.1168792255598" width="70" height="47" side="right" fold="false" treesize="88.000000000000227" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1845.4417521158857" posy="575.37640070993484" maxwidth="200">
+                      <nodename posx="3983.2044474283857" posy="1615.1168792255598" maxwidth="200">
                         <text data="mem="/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="41" posx="2004.4417521158857" posy="543.87640070993393" width="66" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="41" posx="4142.2044474283857" posy="1583.6168792255589" width="66" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2015.4417521158857" posy="554.87640070993393" maxwidth="200">
+                          <nodename posx="4153.2044474283857" posy="1594.6168792255589" maxwidth="200">
                             <text data="512M"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
-                        <node id="42" posx="2004.4417521158857" posy="587.87640070993484" width="99" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="42" posx="4142.2044474283857" posy="1627.6168792255598" width="99" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2015.4417521158857" posy="598.87640070993484" maxwidth="200">
+                          <nodename posx="4153.2044474283857" posy="1638.6168792255598" maxwidth="200">
                             <text data="max RAM"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
                       </nodes>
                     </node>
-                    <node id="43" posx="1834.4417521158857" posy="652.37640070993484" width="118" height="47" side="right" fold="false" treesize="83.86206896551721" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="43" posx="3972.2044474283857" posy="1692.1168792255598" width="118" height="47" side="right" fold="false" treesize="83.86206896551721" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1845.4417521158857" posy="663.37640070993484" maxwidth="200">
+                      <nodename posx="3983.2044474283857" posy="1703.1168792255598" maxwidth="200">
                         <text data="maxcpus="/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="44" posx="2037.4014268195488" posy="631.87640070993484" width="33" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="44" posx="4175.1641221320488" posy="1671.6168792255598" width="33" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2048.4014268195488" posy="642.87640070993484" maxwidth="200">
+                          <nodename posx="4186.1641221320488" posy="1682.6168792255598" maxwidth="200">
                             <text data="2"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
-                        <node id="45" posx="2031.1415770081267" posy="671.73846967545205" width="110" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="45" posx="4168.9042723206267" posy="1711.4789481910771" width="110" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2042.1415770081267" posy="682.73846967545205" maxwidth="200">
+                          <nodename posx="4179.9042723206267" posy="1722.4789481910771" maxwidth="200">
                             <text data="max cpus"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
                       </nodes>
                     </node>
-                    <node id="46" posx="1834.4417521158857" posy="736.23846967545205" width="70" height="47" side="right" fold="false" treesize="88" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="46" posx="3972.2044474283857" posy="1775.9789481910771" width="70" height="47" side="right" fold="false" treesize="88" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1845.4417521158857" posy="747.23846967545205" maxwidth="200">
+                      <nodename posx="3983.2044474283857" posy="1786.9789481910771" maxwidth="200">
                         <text data="vga="/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="47" posx="2004.4417521158857" posy="715.73846967545205" width="55" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="47" posx="4142.2044474283857" posy="1755.4789481910771" width="55" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2015.4417521158857" posy="726.73846967545205" maxwidth="200">
+                          <nodename posx="4153.2044474283857" posy="1766.4789481910771" maxwidth="200">
                             <text data="773"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
-                        <node id="48" posx="2004.4417521158857" posy="759.73846967545205" width="209" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="48" posx="4142.2044474283857" posy="1799.4789481910771" width="209" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2015.4417521158857" posy="770.73846967545205" maxwidth="200">
+                          <nodename posx="4153.2044474283857" posy="1810.4789481910771" maxwidth="200">
                             <text data="select video mode"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
                       </nodes>
                     </node>
-                    <node id="49" posx="1845.6473185221357" posy="831.36029584732569" width="82" height="47" side="right" fold="false" treesize="88" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="49" posx="3983.4100138346357" posy="1871.1007743629507" width="82" height="47" side="right" fold="false" treesize="88" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1856.6473185221357" posy="842.36029584732569" maxwidth="200">
+                      <nodename posx="3994.4100138346357" posy="1882.1007743629507" maxwidth="200">
                         <text data="root="/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="50" posx="2027.6473185221348" posy="810.86029584732569" width="121" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="50" posx="4165.4100138346348" posy="1850.6007743629507" width="121" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2038.6473185221348" posy="821.86029584732569" maxwidth="200">
+                          <nodename posx="4176.4100138346348" posy="1861.6007743629507" maxwidth="200">
                             <text data="/dev/sda2"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
-                        <node id="51" posx="2051.1294555664062" posy="855.04331993586766" width="198" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="51" posx="4188.8921508789062" posy="1894.7837984514927" width="198" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2062.1294555664062" posy="866.04331993586766" maxwidth="200">
+                          <nodename posx="4199.8921508789062" posy="1905.7837984514927" maxwidth="200">
                             <text data="use another root"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
                       </nodes>
                     </node>
-                    <node id="52" posx="1834.4417521158857" posy="891.7384696754516" width="178" height="47" side="right" fold="false" treesize="68.690976899245925" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="52" posx="3972.2044474283857" posy="1931.4789481910766" width="178" height="47" side="right" fold="false" treesize="68.690976899245925" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1845.4417521158857" posy="902.7384696754516" maxwidth="200">
+                      <nodename posx="3983.2044474283857" posy="1942.4789481910766" maxwidth="200">
                         <text data="quiet, splash"/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="53" posx="2062.3017009866644" posy="916.42944657469798" width="198" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="53" posx="4200.0643962991644" posy="1956.169925090323" width="198" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2073.3017009866644" posy="927.42944657469798" maxwidth="200">
+                          <nodename posx="4211.0643962991644" posy="1967.169925090323" maxwidth="200">
                             <text data="be quiet/splashy"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
                       </nodes>
                     </node>
-                    <node id="54" posx="1834.4417521158857" posy="960.42944657469866" width="94" height="47" side="right" fold="false" treesize="63.37917564655254" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="54" posx="3972.2044474283857" posy="2000.1699250903239" width="94" height="47" side="right" fold="false" treesize="63.37917564655254" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1845.4417521158857" posy="971.42944657469866" maxwidth="200">
+                      <nodename posx="3983.2044474283857" posy="2011.1699250903239" maxwidth="200">
                         <text data="ro, rw"/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="55" posx="2014.9331145889455" posy="979.80862222125029" width="198" height="66" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="55" posx="4152.6958099014455" posy="2019.5491007368755" width="198" height="66" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2025.9331145889455" posy="990.80862222125029" maxwidth="200">
+                          <nodename posx="4163.6958099014455" posy="2030.5491007368755" maxwidth="200">
                             <text data="read only / read and write"/>
                           </nodename>
                           <nodenote></nodenote>
                         </node>
                       </nodes>
                     </node>
-                    <node id="56" posx="1843.375651041667" posy="1050.5962198774985" width="214" height="72" side="right" fold="false" treesize="78.493489583333485" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="56" posx="3981.138346354167" posy="2090.3366983931237" width="214" height="72" side="right" fold="false" treesize="78.493489583333485" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                      <nodename posx="1854.375651041667" posy="1061.5962198774985" maxwidth="200">
+                      <nodename posx="3992.138346354167" posy="2101.3366983931237" maxwidth="200">
                         <text data="s, single, S, 1, 2, 3, 4, 5"/>
                       </nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="57" posx="2099.447347005208" posy="1085.0897094608313" width="121" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                        <node id="57" posx="4237.210042317708" posy="2124.8301879764567" width="121" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                          <nodename posx="2110.447347005208" posy="1096.0897094608313" maxwidth="200">
+                          <nodename posx="4248.210042317708" posy="2135.8301879764567" maxwidth="200">
                             <text data="runlevels"/>
                           </nodename>
                           <nodenote></nodenote>
@@ -481,48 +481,48 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="58" posx="1757.9018758138018" posy="1225.975939929581" width="82" height="47" side="right" fold="false" treesize="88" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                <node id="58" posx="3895.6645711263018" posy="2265.7164184452058" width="82" height="47" side="right" fold="false" treesize="88" color="#c6262e" colorroot="false" layout="Manual" group="false">
                   <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename posx="1768.9018758138018" posy="1236.975939929581" maxwidth="200">
+                  <nodename posx="3906.6645711263018" posy="2276.7164184452058" maxwidth="200">
                     <text data="dmesg"/>
                   </nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="59" posx="1939.9018758138018" posy="1205.475939929581" width="176" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="59" posx="4077.6645711263018" posy="2245.2164184452058" width="176" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                      <nodename posx="1950.9018758138018" posy="1216.475939929581" maxwidth="200">
+                      <nodename posx="4088.6645711263018" posy="2256.2164184452058" maxwidth="200">
                         <text data="/var/log/dmesg"/>
                       </nodename>
                       <nodenote></nodenote>
                     </node>
-                    <node id="60" posx="1939.9018758138018" posy="1249.475939929581" width="209" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                    <node id="60" posx="4077.6645711263018" posy="2289.2164184452058" width="209" height="44" side="right" fold="false" treesize="44" color="#c6262e" colorroot="false" layout="Manual" group="false">
                       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 16" nodemarkup="true"/>
-                      <nodename posx="1950.9018758138018" posy="1260.475939929581" maxwidth="200">
+                      <nodename posx="4088.6645711263018" posy="2300.2164184452058" maxwidth="200">
                         <text data="/var/log/messages"/>
                       </nodename>
                       <nodenote></nodenote>
                     </node>
                   </nodes>
                 </node>
-                <node id="61" posx="1667.1365458170576" posy="1301.3470947147373" width="142" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                <node id="61" posx="3804.8992411295576" posy="2341.0875732303625" width="142" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
                   <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename posx="1678.1365458170576" posy="1312.3470947147373" maxwidth="200">
+                  <nodename posx="3815.8992411295576" posy="2352.0875732303625" maxwidth="200">
                     <text data="journalctl"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="62" posx="1670.8062845865888" posy="1370.7365600467685" width="70" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                <node id="62" posx="3808.5689798990888" posy="2410.4770385623938" width="70" height="47" side="right" fold="false" treesize="47" color="#c6262e" colorroot="false" layout="Manual" group="false">
                   <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="false" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 18" nodemarkup="true"/>
-                  <nodename posx="1681.8062845865888" posy="1381.7365600467685" maxwidth="200">
+                  <nodename posx="3819.5689798990888" posy="2421.4770385623938" maxwidth="200">
                     <text data="UEFI"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="63" posx="1162.1866460432091" posy="1449.4251492593787" width="166" height="55" side="right" fold="false" treesize="55" color="#c6262e" colorroot="false" layout="Manual" group="false">
+            <node id="63" posx="3299.9493413557093" posy="2489.1656277750039" width="166" height="55" side="right" fold="false" treesize="55" color="#c6262e" colorroot="false" layout="Manual" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="-8" nodefill="true" nodemargin="5" nodepadding="6" nodefont="Ubuntu Mono 24" nodemarkup="true"/>
-              <nodename posx="1173.1866460432091" posy="1460.4251492593787" maxwidth="200">
+              <nodename posx="3310.9493413557093" posy="2500.1656277750039" maxwidth="200">
                 <text data="RUNLEVELS"/>
               </nodename>
               <nodenote></nodenote>
@@ -534,7 +534,7 @@
   </nodes>
   <groups/>
   <connections>
-    <connection from_id="12" to_id="10" drag_x="1893.401722604056" drag_y="-635.2701492371441" color="#777777">
+    <connection from_id="12" to_id="10" drag_x="4031.164417916556" drag_y="404.47032927848113" color="#777777">
       <style connectiondash="solid" connectionlwidth="4" connectionarrow="both" connectionpadding="3" connectionfont="Ubuntu Mono 13" connectiontwidth="100"/>
       <title>SYSFS</title>
       <note></note>
